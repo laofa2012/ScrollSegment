@@ -61,7 +61,7 @@
 		6E4EC5D9223F770B00D82BA7 /* ScrollSegment */ = {
 			isa = PBXGroup;
 			children = (
-				6E4EC5F5223F777600D82BA7 /* scroll_segment */,
+				6E4EC5F822407E9900D82BA7 /* scroll_segment */,
 				6E4EC5DA223F770B00D82BA7 /* AppDelegate.h */,
 				6E4EC5DB223F770B00D82BA7 /* AppDelegate.m */,
 				6E4EC5DD223F770B00D82BA7 /* ViewController.h */,
@@ -83,13 +83,13 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		6E4EC5F5223F777600D82BA7 /* scroll_segment */ = {
+		6E4EC5F822407E9900D82BA7 /* scroll_segment */ = {
 			isa = PBXGroup;
 			children = (
 				6E4EC5F0223F774E00D82BA7 /* CVScrollSegmentView.h */,
 				6E4EC5F1223F774E00D82BA7 /* CVScrollSegmentView.m */,
 			);
-			name = scroll_segment;
+			path = scroll_segment;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
